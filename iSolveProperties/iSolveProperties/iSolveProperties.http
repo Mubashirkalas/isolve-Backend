@@ -1,0 +1,6 @@
+@iSolveProperties_HostAddress = http://localhost:5253
+
+GET {{iSolveProperties_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
